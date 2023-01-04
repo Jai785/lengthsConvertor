@@ -1,0 +1,188 @@
+body, html{
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    font-family: arial,sans-serif;
+    /* width: 100%; */
+    width: auto;
+    overflow-wrap: normal;
+}
+.container{
+    list-style: none;
+    display: block;
+    /* flex-direction: column; */
+    border-radius: 39px;
+    border: 2px solid #dadce0;
+    box-shadow: 10px 10px 10px 10px;
+    padding: 20px;
+    background-color: #fff;
+    /* width: 0px; */width: auto;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    font-family: arial,sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    /* clear: both; */
+    /* box-sizing: border-box; */
+    /* position: relative; */
+    margin: auto;
+}
+
+.section-1{
+    border: 2px solid black;
+    /* width: 200px; */
+    width: auto;
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#input-div-1{
+    margin: auto;
+    padding: 15px 0px 0px 0px;
+    font-size: 15px;
+}
+#input-div-2{
+    margin: auto;
+    padding: 15px 0px 0px 0px;
+    font-size: 15px;
+}
+
+.input-1{
+    /* width: 150px; */
+    width: 100px;
+    margin: auto;
+    font-size: 15px;
+}
+.input-2{
+    /* width: 150px; */
+    width: 100px;
+    margin: auto;
+    font-size: 15px;
+}
+
+.container-2{
+    /* display: flex; */
+    display: block;
+    /* flex-direction: column; */
+    /* width: 180px; */
+    width: auto;
+    margin: auto;
+    padding: 10px;
+}
+.container-3 {
+    /* display: flex; */
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 180px; */
+    width: auto;
+    margin: auto;
+    padding: 10px;
+}
+.container-4 {
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* display: block; */
+    /* width: 180px; */
+    width: auto;
+    margin: auto;
+    padding: 10px;
+}
+.container-5 {
+    /* display: flex; */
+    /* flex-direction: row; */
+    display: block;
+    /* width: 180px; */
+    width: auto;
+    margin: auto;
+    padding: 10px;
+}
+
+.para{
+    flex-wrap: wrap;
+    display: inline-flex;
+    margin: auto;
+    /* width: 390px; */
+    width: auto;
+    /* display: block; */
+    /* flex-direction: column; */
+}
+
+#span-1{
+        /* display: flex; */
+        display: block;
+        /* flex-direction: column; */
+        /* width: 150px; */
+        width: auto;
+        margin: 0px;
+        padding: 0px;
+    border: 2px solid black;
+}
+#span-2{
+        /* display: flex; */
+        /* flex-direction: column; */
+        display: block;
+        /* width: 150px; */
+        width: auto;
+        margin: 0px;
+        padding: 0px;
+    border: 2px solid black;
+}
+
+li{
+    width: 0px;
+    margin: 0px;
+    padding: 0px 0px 10px 10px;
+    text-align: center;
+    justify-content: center;
+}
+li>input{
+    /* width: 140px; */
+    width: auto;
+    margin: auto;
+}
+
+.formula{
+margin: auto;
+border: 2px solid black;
+background-color: yellow;
+padding: 5px;
+}
+.multiplyBy12{
+    display: block;
+    border: 2px solid black;
+    padding: 5px;
+    margin: auto;
+    /* width: 200px; */
+    width: auto;
+    height: auto;
+}
+.td{
+margin: auto;
+    padding: 8px;
+    margin: 0px;
+}
+
+#guide{
+    margin: auto;
+    /* width: 250px; */
+    width: auto;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.inputs{
+    margin: auto;
+    width: 100px;
+    text-align: center;
+    justify-content: center;
+    padding: auto;
+}
+
+.yoyo{
+    margin: auto;
+    width: 250px;
+}
